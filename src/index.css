@@ -5,7 +5,7 @@ body {
   display: flex;
   justify-content: center;
   background: linear-gradient(90deg,#f7c9c9,#fa709a 70%);
-  font-family: Merriweather,serif;
+  font-family: 'Playfair Display', serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
