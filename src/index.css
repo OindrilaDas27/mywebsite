@@ -4,7 +4,7 @@ body {
   box-sizing: border-box;
   display: flex;
   justify-content: center;
-  background: linear-gradient(90deg,#f7c9c9,#fa709a 70%);
+  background: linear-gradient(90deg,#8667a1,#d47273 70%);
   font-family: 'Playfair Display', serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
